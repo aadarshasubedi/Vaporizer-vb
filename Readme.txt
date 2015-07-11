@@ -1,0 +1,2 @@
+A GUI pitch shifter wrapper for PitchShift.cs found @ http://www.dspdimension.com converted and then written in visual basic.
+A lot of this code is searched for and adapted as I know very little about audio modulation.
